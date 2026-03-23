@@ -1,0 +1,5 @@
+.para {
+  display: flex;
+  justify-content: center;  /* horizontal center */
+  align-items: center;      /* vertical center */           /* full screen height */
+}
